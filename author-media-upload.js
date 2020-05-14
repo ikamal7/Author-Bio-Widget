@@ -1,4 +1,4 @@
-jQuery(document).ready(function () {
+jQuery(document).ready(function ($) {
 
     
 
@@ -26,6 +26,7 @@ jQuery(document).ready(function () {
           var attachment = file_frame.state().get('selection').first().toJSON();
           
           $button.siblings('input').val(attachment.url);
+          $button.siblings('input').trigger('change');
           $button.siblings('img').attr('src',attachment.url);
  
        });

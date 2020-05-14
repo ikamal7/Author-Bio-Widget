@@ -28,6 +28,7 @@ jQuery(document).ready(function ($) {
           $button.siblings('input').val(attachment.url);
           $button.siblings('input').trigger('change');
           $button.siblings('img').attr('src',attachment.url);
+         
  
        });
  

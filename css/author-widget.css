@@ -1,0 +1,38 @@
+/* Default Template */
+.author-bio-widget ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.author-bio-widget ul li {
+    display: inline-block;
+}
+
+.author-bio-widget ul li a {
+    display: block;
+    padding: 3px 8px;
+    font-size: 18px;
+    color: #ffffff;
+    background: #000000;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+.author-bio-widget img {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.author-bio-widget span{
+    display: block;
+    font-size: 70%;
+}
+/* Template 1 */
+
+.author-bio-widget .template_1 img {
+    border-radius: 50%;
+}
+
+.author-bio-widget .template_1 {
+    text-align: center;
+}

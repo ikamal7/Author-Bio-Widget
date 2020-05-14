@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Plugin Name: Author Bio Widget
+ * Plugin Name: Smart Author Bio Widget
  * Plugin URI: https://kamal.pw/author-bio-widget
  * Description:This plugin help for blogger show their bio in sidebar
  * Version: 1.0

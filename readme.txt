@@ -1,5 +1,5 @@
-=== Author Bio Widget ===
-Contributors: ikamal
+=== Smart Author Bio Widget ===
+Contributors: ikamal,pixelplugin
 Tags: author widget, author box, author profile, widget
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=P4EBQ3RE9CCML&source=url
 Requires at least: 4.1
